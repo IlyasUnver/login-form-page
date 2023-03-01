@@ -130,6 +130,10 @@ input{
 
 }
 
+.fa-brands{
+    padding-right: 5px;
+}
+
 /* Responsive */
 
 @media only screen and (max-width:1440px){
